@@ -1,5 +1,10 @@
 //: Playground - noun: a place where people can play
 
+//currently licensed under:
+//Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+//i'll probably go more open as the project develops
+//author: jeremiah milbauer
+
 import UIKit
 
 enum LabType { //done
